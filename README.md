@@ -3,7 +3,7 @@
 
 ## 1. Aprendendo a implementar o script:
 
-  1- Em seguida, você irá precisar clicar em expansões e depois em Apps Script.
+  1- Você irá precisar clicar em expansões e depois em Apps Script.
   
   <img width="307" height="168" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ec5963cf-ae6d-4dce-90dc-5d1f30272a8e" />
   
