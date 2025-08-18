@@ -10,31 +10,45 @@
   
   2- Após o passo anterior, você irá entrar no Apps Script, nesta tela será onde você ira colar o código.
   
+  <div align = "center">
   <img width="1476" height="751" alt="Screenshot_7" src="https://github.com/user-attachments/assets/24361e78-fb46-4d9f-8a9f-816d6343537d" />
-
+  </div>
+  
   3- Ali em cima de azul, é onde você vai clicar para integrar o código a sua planilha (basta confirmar todas as etapas). 
   
+  <div align = "center">
   <img width="964" height="291" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b9e81847-c066-4ab4-a38e-4d6d87fb8c1a" />
-
-  4- Detalhe importante, no seu código é preciso ter uma váriavel com o mesmo nome da PÁGINA da planilha para todo o sistema funcionar corretamente.
-  <img width="673" height="328" alt="Screenshot_8" src="https://github.com/user-attachments/assets/50b03f6e-0e75-4640-ad20-31fe0b722409" />
+  </div>
   
+  4- Detalhe importante, no seu código é preciso ter uma váriavel com o mesmo nome da PÁGINA da planilha para todo o sistema funcionar corretamente.
+  
+  <div align = "center">
+  <img width="673" height="328" alt="Screenshot_8" src="https://github.com/user-attachments/assets/50b03f6e-0e75-4640-ad20-31fe0b722409" />
+  </div>
+  
+  <div align = "center">
   <img width="800" height="615" alt="Screenshot_9" src="https://github.com/user-attachments/assets/cb31b3a2-4608-4b7e-b78c-cc8efa8a8a95" />
-
+  </div>
+  
   5- Você agora irá clicar em "acionadores" para definir um timer para que o programa rode de forma automática.
   
+  <div align = "center">
   <img width="791" height="476" alt="Screenshot_10" src="https://github.com/user-attachments/assets/cbed2903-524b-467a-82d1-a3242acdaf45" />
-
+  </div>
   6- Crie um novo evento e copie essas configurações ( o tempo pode ser de sua escolha, será o horário que o email automático será enviado).
   
+  <div align = "center">
   <img width="1536" height="608" alt="Screenshot_11" src="https://github.com/user-attachments/assets/1417bd18-af42-474a-9c0e-f66f40a662ce" />
+  </div>
   
+  <div align = "center">
   <img width="748" height="681" alt="Screenshot_12" src="https://github.com/user-attachments/assets/75bb0997-f2a3-45e0-ae4b-4373afa17887" />
-
+  </div>
+  
   7- Após esses passos, volte para essa tela e salve tudo. Caso já tenha preenchido a própria planilha (ensino nos próximos passos) com as informações e quiser um       teste, execute o botão "executar" e veja o resultado (aconselho botar um email teste para configurar tudo antes).
-  
+  <div align = "center">
   <img width="1562" height="734" alt="Screenshot_13" src="https://github.com/user-attachments/assets/fd819772-b66c-4884-8d74-88bbc630699e" />
-  
+  </div>
 ## 2. Configurando a planilha: 
   
 -   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
