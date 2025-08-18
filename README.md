@@ -1,5 +1,5 @@
-# Monitoramento-de-contratos
-  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (Apps Script) para gerenciar e emitir alertas de vencimento de contratos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gestor. 
+# Monitoramento-de-contratos-e-boletos
+  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (Apps Script) para gerenciar e emitir alertas de vencimento de contratos e boletos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gestor. 
 
 ## 1. Aprendendo a implementar o script:
 
@@ -54,7 +54,7 @@
   
 -   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
 
-- Após essa etapa, basta preencher com as informações necessárias como nome do contrato, fornecedor/cliente, a data de vencimento do contrato e o email para qual o aviso será enviado (pode ser mais de um neste campo, basta separa-los por vírgulas). 
+- Após essa etapa, basta preencher com as informações necessárias como nome do contrato, fornecedor/cliente, a data de vencimento do contrato e o email para qual o aviso será enviado (pode ser mais de um neste campo, basta separa-los por vírgulas), e sua data de vencimento do último boleto referente a cobrança mensal do aluguél. 
 
 - Logo após isso, será mostrado quantos dias falta para o vencimento. Será emitido um aviso em 60, 30, 15, 7, 1 dias, onde os campos ficam em vermelho para ter algo mais visual, intuitivo e fácil de ser visto.
 
@@ -72,7 +72,7 @@
 <img width="1376" height="214" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9f10fae0-879a-493a-8f21-066a26a11bf0" />
 </div>
 
-- Ao enviar o alerta, chegará o email descrevendo a mensagem, mostrando nome, data e quantos dias faltam para o encerramento do contrato, como mostra a imagem abaixo:
+- Ao enviar o alerta, chegará o email descrevendo a mensagem, mostrando nome, data e quantos dias faltam para o encerramento do contrato e informando sobre o vencimento do último boleto da cobrança de aluguel , como mostra a imagem abaixo:
 
 <div align = "center">
 <img width="919" height="464" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e5573061-2119-47da-8ec8-80f1e8d62f03" />
