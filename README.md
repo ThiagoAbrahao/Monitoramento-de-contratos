@@ -1,5 +1,5 @@
 # Monitoramento-de-contratos
-  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (Apps Script) para gerenciar e emitir alertas de vencimento de contratos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gesto. 
+  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (Apps Script) para gerenciar e emitir alertas de vencimento de contratos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gestor. 
 
 ## 1. Aprendendo a implementar o script:
 
