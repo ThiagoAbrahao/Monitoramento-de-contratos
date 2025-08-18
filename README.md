@@ -1,7 +1,9 @@
 # Monitoramento-de-contratos
-  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha do excel do próprio google, usando a própria API (AppScript) para gerenciar e emitir alertas de vencimento de contratos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gesto. 
+  Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (AppScript) para gerenciar e emitir alertas de vencimento de contratos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gesto. 
 
-- A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
+## 1. Aprendendo a implementar o script:
+
+-   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
 
 - Após essa etapa, basta preencher com as informações necessárias como nome do contrato, fornecedor/cliente, a data de vencimento do contrato e o email para qual o aviso será enviado (pode ser mais de um neste campo, basta separa-los por vírgulas). 
 
