@@ -4,8 +4,9 @@
 ## 1. Aprendendo a implementar o script:
 
   1- Você irá precisar clicar em expansões e depois em Apps Script.
-  
+  <div align = "center">
   <img width="307" height="168" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ec5963cf-ae6d-4dce-90dc-5d1f30272a8e" />
+  </div>
   
   2- Após o passo anterior, você irá entrar no Apps Script, nesta tela será onde você ira colar o código.
   
