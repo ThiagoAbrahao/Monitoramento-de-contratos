@@ -5,7 +5,7 @@
 
 - Após essa etapa, basta preencher com as informações necessárias como nome do contrato, fornecedor/cliente, a data de vencimento do contrato e o email para qual o aviso será enviado (pode ser mais de um neste campo, basta separa-los por vírgulas). 
 
-- Logo após isso, será mostrado quantos dias falta para o vencimento. Será emitido um aviso em 60, 30, 15, 7, 1 dias, ficando em amarelo para os 60, 30 e 15 dias e vermelho para os 7 e 1 dias restantes. 
+- Logo após isso, será mostrado quantos dias falta para o vencimento. Será emitido um aviso em 60, 30, 15, 7, 1 dias, onde os campos ficam em vermelho para ter algo mais visual, intuitivo e fácil de ser visto.
 
 - Após a emissão do primeiro aviso, ficará marcado em um campo a mensagem de que o aviso foi enviado com exito, sendo necessário a limpeza deste campo de forma manual (excluíndo o texto) para a emissão dos outros alertas.
 
