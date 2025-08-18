@@ -7,7 +7,7 @@
   
   <img width="307" height="168" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ec5963cf-ae6d-4dce-90dc-5d1f30272a8e" />
   
-  2- Após os passos anteriores, você irá entrar no Apps Script, nesta tela será onde você ira colar o código.
+  2- Após o passo anterior, você irá entrar no Apps Script, nesta tela será onde você ira colar o código.
   
   <img width="1476" height="751" alt="Screenshot_7" src="https://github.com/user-attachments/assets/24361e78-fb46-4d9f-8a9f-816d6343537d" />
 
