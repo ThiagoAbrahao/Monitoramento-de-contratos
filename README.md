@@ -33,9 +33,8 @@
   7- Após esses passos, volte para essa tela e salve tudo. Caso já tenha preenchido a própria planilha (ensino nos próximos passos) com as informações e quiser um       teste, execute o botão "executar" e veja o resultado (aconselho botar um email teste para configurar tudo antes).
   
   <img width="1562" height="734" alt="Screenshot_13" src="https://github.com/user-attachments/assets/fd819772-b66c-4884-8d74-88bbc630699e" />
-
-
-
+  
+## 2. Configurando a planilha: 
   
 -   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
 
@@ -46,8 +45,8 @@
 - Após a emissão do primeiro aviso, ficará marcado em um campo a mensagem de que o aviso foi enviado com exito, sendo necessário a limpeza deste campo de forma manual (excluíndo o texto) para a emissão dos outros alertas.
 
 <img width="1450" height="227" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cb6925f9-2714-435e-af3b-582c7dbb5821" />
-*obs: alguns nomes e valores foram usados para demonstrar como funciona.
 
+*obs: alguns nomes e valores foram usados para demonstrar como funciona.
 
 - A imagem a seguir é uma mensagem da API do google informando de que o programa rodou, enviou a mensagem e parou de rodar com êxito, demonstrando assim que o alerta foi eviado de forma efetiva.
  
