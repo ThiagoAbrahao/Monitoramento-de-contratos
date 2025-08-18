@@ -12,6 +12,7 @@
 <img width="1450" height="227" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cb6925f9-2714-435e-af3b-582c7dbb5821" />
 *obs: alguns nomes e valores foram usados para demonstrar como funciona.
 
+
 - A imagem a seguir é uma mensagem da API do google informando de que o programa rodou, enviou a mensagem e parou de rodar com êxito, demonstrando assim que o alerta foi eviado de forma efetiva.
  
 <img width="1376" height="214" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9f10fae0-879a-493a-8f21-066a26a11bf0" />
