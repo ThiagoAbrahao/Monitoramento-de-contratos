@@ -35,7 +35,7 @@
   <div align = "center">
   <img width="791" height="476" alt="Screenshot_10" src="https://github.com/user-attachments/assets/cbed2903-524b-467a-82d1-a3242acdaf45" />
   </div>
-  6- Crie um novo evento e copie essas configurações ( o tempo pode ser de sua escolha, será o horário que o email automático será enviado).
+  6- Crie um novo acionador e copie essas configurações ( o tempo pode ser de sua escolha, será o horário que o email automático será enviado).
   
   <div align = "center">
   <img width="1536" height="608" alt="Screenshot_11" src="https://github.com/user-attachments/assets/1417bd18-af42-474a-9c0e-f66f40a662ce" />
