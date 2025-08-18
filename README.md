@@ -20,7 +20,8 @@
 - Ao enviar o alerta, chegará o email descrevendo a mensagem, mostrando nome, data e quantos dias faltam para o encerramento do contrato, como mostra a imagem abaixo:
 
 <img width="919" height="464" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e5573061-2119-47da-8ec8-80f1e8d62f03" />
+
 *obs: O conteúdo da mensagem pode ser mudado para adaptar-se ao desejo da empresa, pessoa jurídica e afins.
 
-*Trabalho pensado e desenvolvido por mim em vista de solucionar uma necessidade e automatizar alguns processos.
+- Trabalho pensado e desenvolvido por mim em vista de solucionar uma necessidade e automatizar alguns processos.
 
