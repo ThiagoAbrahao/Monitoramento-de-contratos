@@ -49,6 +49,7 @@
   <div align = "center">
   <img width="1562" height="734" alt="Screenshot_13" src="https://github.com/user-attachments/assets/fd819772-b66c-4884-8d74-88bbc630699e" />
   </div>
+
 ## 2. Configurando a planilha: 
   
 -   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
@@ -59,17 +60,23 @@
 
 - Após a emissão do primeiro aviso, ficará marcado em um campo a mensagem de que o aviso foi enviado com exito, sendo necessário a limpeza deste campo de forma manual (excluíndo o texto) para a emissão dos outros alertas.
 
+<div align = "center">
 <img width="1450" height="227" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cb6925f9-2714-435e-af3b-582c7dbb5821" />
+</div>
 
 *obs: alguns nomes e valores foram usados para demonstrar como funciona.
 
 - A imagem a seguir é uma mensagem da API do google informando de que o programa rodou, enviou a mensagem e parou de rodar com êxito, demonstrando assim que o alerta foi eviado de forma efetiva.
- 
+
+<div align = "center">
 <img width="1376" height="214" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9f10fae0-879a-493a-8f21-066a26a11bf0" />
+</div>
 
 - Ao enviar o alerta, chegará o email descrevendo a mensagem, mostrando nome, data e quantos dias faltam para o encerramento do contrato, como mostra a imagem abaixo:
 
+<div align = "center">
 <img width="919" height="464" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e5573061-2119-47da-8ec8-80f1e8d62f03" />
+</div>
 
 *obs: O conteúdo da mensagem pode ser mudado para adaptar-se ao desejo da empresa, pessoa jurídica e afins.
 
