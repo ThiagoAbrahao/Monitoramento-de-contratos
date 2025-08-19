@@ -5,7 +5,7 @@
   1. [Aprendendo a implementar o script](#aprendendo-a-implementar-o-script)
   2. [Configurando a planilha](#configurando-a-planilha)
 
-## 1. Aprendendo a implementar o script:
+## 2. Aprendendo a implementar o script:
 
   1- Você irá precisar clicar em expansões e depois em Apps Script.
   <div align = "center">
@@ -54,7 +54,7 @@
   <img width="1562" height="734" alt="Screenshot_13" src="https://github.com/user-attachments/assets/fd819772-b66c-4884-8d74-88bbc630699e" />
   </div>
 
-## 2. Configurando a planilha: 
+## 3. Configurando a planilha: 
   
 -   A planilha é bem simples de usar, bastar criar a quantidade de linhas necessárias (a quantidade de contratos que necessita ser monitorado), copiar o script presente em células já feitas e aplicar nas novas células.
 
