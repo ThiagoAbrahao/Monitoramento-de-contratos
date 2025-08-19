@@ -1,6 +1,10 @@
 # Monitoramento-de-contratos-e-boletos
   Trabalho como auxíliar administrativo e vi a necessidade de automatizar algumas tarefas trabalhosas que tenho por aqui, então decidi criar uma planilha usando o google sheets, usando a própria API (Apps Script) para gerenciar e emitir alertas de vencimento de contratos e boletos de aluguéis via email. É um projeto pessoal que implementei ao meu trabalho com a aprovação do meu gestor. 
 
+  ##Índice:
+  1. [Aprendendo a implementar o script](#aprendendo-a-implementar-o-script)
+  2. [Configurando a planilha](#configurando-a-planilha)
+
 ## 1. Aprendendo a implementar o script:
 
   1- Você irá precisar clicar em expansões e depois em Apps Script.
